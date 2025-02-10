@@ -1,3 +1,9 @@
-data/**.csv
-.venv
-__pycache__
+# Ignore CSV files under 'data' folder
+data/*.csv
+
+# Ignore Python cache directories
+__pycache__/
+**/__pycache__/
+
+# Ignore virtual environment
+.venv/
