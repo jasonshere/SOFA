@@ -1,4 +1,3 @@
-```markdown
 # Project Name
 
 A brief description of your project.
@@ -79,4 +78,3 @@ If you find this work useful, please cite the following paper:
 - Ensure GPU drivers are properly installed if you want to train on GPU.
 - If you face environment conflicts, recreate the virtual environment or re-install dependencies.
 - Feel free to open issues or contact the repository owner if you have any questions.
-```
